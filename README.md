@@ -10,7 +10,7 @@ To analyze ride-share profit data by city type
 - Because there is more activity in the Urban market, there are more drivers. Therefore the average fare per driver decreases with the higher rideshare activity even though the total fare amount is the highest.
 - For Rural markets, where there are less drivers, the average fare per driver is higher. Right now I can only assume that this is based on the lower availability and demand than the busier markets.
 
-![PyBer Summary](./Analysis/Pyber_summary.png)
+![PyBer Summary](./Analysis/PyBer_summary.png)
 
 - As demonstrated in the chart below, the overall trends over time show increased and decreased weekly fares around the same time. You can now visually see the the Urban market earns nearly 4 times as much in fares than the Rural market and about 2 times the Suburban market.
 
